@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#container {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin: auto;
+  border-radius: 20px;
+  align-items: center;
+  height: 90vh;
+  margin-top: 40px;
+  padding: 20px;
+  overflow: auto;
+  background-color: hsl(172, 45%, 94%);
+}
+
+#container > h1 {
+  font-size: 38px;
+  margin-bottom: 10px;
+}
+
+#container > div > input,
+#container > div > .Additem {
+  background-color: #fff;
+  border-radius: 12px;
+  border: none;
+  outline: none;
+  padding: 12px 20px;
+  font-size: 22px;
+  font-weight: 600;
+  margin: 0px 6px;
+}
+
+.todoItem {
+  background-color: #fff;
+  margin-top: 10px;
+  padding: 2px 20px;
+  width: 376px;
+  border-radius: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-transform: capitalize;
+}
+
+.dltBtn {
+  border: 2px solid hsl(171, 21%, 80%);
+  font-size: 12px;
+  padding: 4px 8px;
+  font-weight: 600;
+  text-transform: uppercase;
+  cursor: pointer;
+}

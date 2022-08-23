@@ -1,0 +1,19 @@
+{
+    "data":[{"id":1,"name":"Santanu","salary":143,"placed":"In 2months","rating":4,"avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0iRhDHoL7ahq3rLSf6d308P9DdWA-VEVSSQ&usqp=CAU"},
+        {"id":2,"name":"Mohapatra","salary":14300,"placed":"In 2months","rating":4,"avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0iRhDHoL7ahq3rLSf6d308P9DdWA-VEVSSQ&usqp=CAU"},
+        {"id":3,"name":"from","salary":1430,"placed":"In 2months","rating":6,"avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0iRhDHoL7ahq3rLSf6d308P9DdWA-VEVSSQ&usqp=CAU"},
+        {"id":4,"name":"puri","salary":143000,"placed":"In 2months","rating":5,"avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0iRhDHoL7ahq3rLSf6d308P9DdWA-VEVSSQ&usqp=CAU"},
+        {"id":5,"name":"Jagannath Dham","salary":14300000,"placed":"In 1months","rating":10,"avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0iRhDHoL7ahq3rLSf6d308P9DdWA-VEVSSQ&usqp=CAU"},
+        {"id":6,"name":"Mahatma","salary":14300,"placed":"In 2months","rating":4,"avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0iRhDHoL7ahq3rLSf6d308P9DdWA-VEVSSQ&usqp=CAU"},
+        {"id":7,"name":"Gandhi","salary":1430,"placed":"In 2months","rating":6,"avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0iRhDHoL7ahq3rLSf6d308P9DdWA-VEVSSQ&usqp=CAU"},
+        {"id":8,"name":"Gopabandhu","salary":143000,"placed":"In 2months","rating":5,"avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0iRhDHoL7ahq3rLSf6d308P9DdWA-VEVSSQ&usqp=CAU"},
+        {"id":9,"name":"Michle","salary":1430000,"placed":"In 1months","rating":10,"avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0iRhDHoL7ahq3rLSf6d308P9DdWA-VEVSSQ&usqp=CAU"},
+        {"id":10,"name":"John","salary":14300,"placed":"In 2months","rating":4,"avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0iRhDHoL7ahq3rLSf6d308P9DdWA-VEVSSQ&usqp=CAU"},
+        {"id":11,"name":"Rohan","salary":1430,"placed":"In 2months","rating":6,"avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0iRhDHoL7ahq3rLSf6d308P9DdWA-VEVSSQ&usqp=CAU"},
+        {"id":12,"name":"Chiranjit","salary":143000,"placed":"In 2months","rating":5,"avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0iRhDHoL7ahq3rLSf6d308P9DdWA-VEVSSQ&usqp=CAU"},
+        {"id":13,"name":"Aditya","salary":14300000000,"placed":"In 1months","rating":10,"avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0iRhDHoL7ahq3rLSf6d308P9DdWA-VEVSSQ&usqp=CAU"},
+        {"id":14,"name":"Pintu","salary":14300,"placed":"In 2months","rating":4,"avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0iRhDHoL7ahq3rLSf6d308P9DdWA-VEVSSQ&usqp=CAU"},
+        {"id":15,"name":"Chavi","salary":1430,"placed":"In 2months","rating":6,"avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0iRhDHoL7ahq3rLSf6d308P9DdWA-VEVSSQ&usqp=CAU"},
+        {"id":16,"name":"Sunil","salary":143000,"placed":"In 2months","rating":5,"avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0iRhDHoL7ahq3rLSf6d308P9DdWA-VEVSSQ&usqp=CAU"}
+   ]
+}

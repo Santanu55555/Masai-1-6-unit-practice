@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+
+
+
+
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 10px;
+
+
+}
+
+.item {
+
+  border: 1px solid rgb(78, 77, 77);
+  border-radius: 10px;
+}
+
+.flex {
+  display: flex;
+}
+
+.add {
+  display: flex;
+  justify-content: space-between;
+}
+
+.head {
+  text-align: center;
+  border: 1px solid rgb(78, 77, 77);
+  border-radius: 5px;
+  color: #ff78ad
+}
+
+.addcart {
+  background-color: #006fd0;
+  color: #fff;
+  border-radius: 3px;
+}
+
+.btn {
+  height: 20px;
+}
+
+.count-item {
+  margin-top: 0;
+  padding-left: 5px;
+  padding-right: 5px;
+}

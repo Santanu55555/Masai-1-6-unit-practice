@@ -1,0 +1,59 @@
+/* Main */
+.main {
+    background-color: #8f99b9;
+    width: 50%;
+    margin: 0.5rem auto;
+}
+.btns {
+    display: flex;
+    width: 60%;
+    max-width: 30rem;
+    justify-content: space-evenly;
+    margin: 0rem auto;
+    margin-left: -2%;
+    padding: 0.5rem 2rem 1rem;
+}
+
+.btn,
+.stop,
+.reset,
+.start{
+    padding: 0.25rem 2rem;
+    margin-left: 110px;
+    font-size: 1rem;
+    color: gray;
+    background: black;
+}
+.reset {
+    background: #d3d3d3;
+    color: black;
+}
+.start, .stop {
+    color: black;
+    background: rgba(82, 82, 152, 0.842);
+}
+.reset, .start, .stop {
+    cursor: pointer;
+}
+/* Input */
+.inpBox {
+    width: 90%;
+    max-width: 22rem;
+    margin: auto;
+    height: 6rem;
+    color: white;
+}
+.inp{
+    width: 90%;
+    max-width: 20rem;
+    height: 1.77rem;
+    font-size: 4rem;
+    background-color: #a5a7aa;
+    color: rgb(228, 215, 215);
+    border: 1px solid #121418;
+    padding: 2rem 0.5rem 1.25rem;
+    text-align: center;
+}
+.inp:focus {
+    outline: 0;
+}

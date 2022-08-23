@@ -1,0 +1,213 @@
+{
+  "mobile": [
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/ky7lci80/mobile/v/z/v/-original-imagahvganfyjtbh.jpeg?q=70",
+      "name": "Asus Rog",
+      "price": "25846",
+      "category": "mobile",
+      "id": 1
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/ky7lci80/mobile/l/w/z/-original-imagahvnzfgdg8jy.jpeg?q=70",
+      "name": "Asus Rog",
+      "price": "75846",
+      "category": "mobile",
+      "id": 2
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/ktx9si80/mobile/d/n/p/narzo-50a-rmx3430-realme-original-imag75kymngzyabx.jpeg?q=70",
+      "name": "Realme",
+      "price": "85846",
+      "category": "mobile",
+      "id": 3
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/ktx9si80/mobile/q/a/c/narzo-50a-rmx3430-realme-original-imag75kybaer8scz.jpeg?q=70",
+      "name": "Realme",
+      "price": "65874",
+      "category": "mobile",
+      "id": 4
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/l2jcccw0/mobile/h/x/3/-original-imagduwqakhhkrse.jpeg?q=70",
+      "name": "Opp",
+      "price": "65949",
+      "category": "mobile",
+      "id": 5
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/l2jcccw0/mobile/h/x/3/-original-imagduwqakhhkrse.jpeg?q=70",
+      "name": "Opp",
+      "price": "848554",
+      "category": "mobile",
+      "id": 6
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/l2xmqvk0/mobile/8/t/i/-original-image6749y5garqg.jpeg?q=70",
+      "name": "Motorola",
+      "price": "289458",
+      "category": "mobile",
+      "id": 7
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/klgx0280/mobile/q/s/t/narzo-30-pro-5g-rmx2117-realme-original-imagyhbkzmtcfyyh.jpeg?q=70",
+      "name": "Narzo",
+      "price": "19485",
+      "category": "mobile",
+      "id": 8
+    }
+  ],
+  "laptop": [
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/kw3v0cw0/computer/j/q/f/inbook-x1-thin-and-light-laptop-infinix-original-imag8vfssyyfzvku.jpeg?q=70",
+      "name": "Laptop",
+      "price": "95868",
+      "category": "laptop",
+      "id": 1
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/keaaavk0/computer/x/m/y/lenovo-na-laptop-original-imafuzt8r5jqppfn.jpeg?q=70",
+      "name": "Laptop",
+      "price": "94824",
+      "category": "laptop",
+      "id": 2
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/l2jcccw0/computer/s/k/0/-original-imagdus5mrsgjepa.jpeg?q=70",
+      "name": "Laptop",
+      "price": "84575",
+      "category": "laptop",
+      "id": 3
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/kp2y2kw0/computer/y/0/c/na-thin-and-light-laptop-asus-original-imag3ebnzawky4kn.jpeg?q=70",
+      "name": "Laptop",
+      "price": "65824",
+      "category": "laptop",
+      "id": 4
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/kw104nk0/computer/z/7/t/inbook-x1-pro-thin-and-light-laptop-infinix-original-imag8shw6pfzuc4e.jpeg?q=70",
+      "name": "Laptop",
+      "price": "39548",
+      "category": "laptop",
+      "id": 5
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/l1fc0i80/computer/v/h/e/-original-imagczgsyhftj2zz.jpeg?q=70",
+      "name": "Laptop",
+      "price": "48575",
+      "category": "laptop",
+      "id": 6
+    }
+  ],
+  "watch": [
+    {
+      "image": "https://rukminim1.flixcart.com/flap/150/150/image/f3416f56ae208f82.jpg?q=70",
+      "name": "watch",
+      "price": "2984",
+      "category": "watch",
+      "id": 1
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/309/371/jwzabgw0/watch/c/h/g/ls2821-limestone-original-imafhjcr3xkxgqaz.jpeg?q=50",
+      "name": "watch",
+      "price": "369",
+      "category": "watch",
+      "id": 2
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/309/371/ke0a7ww0-0/watch/g/e/h/hmtg-g9052-original-gold-plated-day-date-watch-golden-chain-hrnt-original-imafusbxrfcvfyzf.jpeg?q=50",
+      "name": "watch",
+      "price": "968",
+      "category": "watch",
+      "id": 3
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/309/371/l0bbonk0/watch/t/6/o/2-new-combo-of-blue-dial-mahadev-printed-watch-and-om-mahadev-original-imagc4ngs4thwhkx.jpeg?q=50",
+      "name": "watch",
+      "price": "968567",
+      "category": "watch",
+      "id": 4
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/309/371/kmxsakw0/watch/8/e/v/stylis-men-s-all-new-looks-sports-design-nester-original-imagfq9ybfkzeyry.jpeg?q=50",
+      "name": "watch",
+      "price": "254",
+      "category": "watch",
+      "id": 5
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/309/371/kerfl3k0pkrrdj/watch/2/5/r/1170-bl-br-fogg-original-imafvhvvagrufhkw.jpeg?q=50",
+      "name": "watch",
+      "price": "9458",
+      "category": "watch",
+      "id": 6
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/309/371/jumzc7k0/watch/d/g/8/green-chronograph-sports-multifunction-military-skmei-original-imaffzth9juctzmn.jpeg?q=50",
+      "name": "watch",
+      "price": "864",
+      "category": "watch",
+      "id": 7
+    }
+  ],
+  "products": [
+    {
+      "image": "https://rukminim1.flixcart.com/image/150/150/kqb8pzk0/kurta/q/4/g/l-combo03-bitu-fashions-original-imag4cpc62ph5pfw.jpeg?q=70",
+      "name": "Women Kurta's",
+      "price": "986",
+      "category": "cloth",
+      "id": 1
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/150/150/l16rde80/t-shirt/i/a/h/xs-tbgrrn-d45-tripr-original-imagcty5fca3jh64.jpeg?q=70",
+      "name": "Men's Shirt",
+      "price": "767",
+      "category": "cloth",
+      "id": 2
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/klgx0280/mobile/q/s/t/narzo-30-pro-5g-rmx2117-realme-original-imagyhbkzmtcfyyh.jpeg?q=70",
+      "name": "Sunglass",
+      "price": "948",
+      "category": "Sunglass",
+      "id": 3
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/flap/150/150/image/43d9c318e1076cb2.jpeg?q=70",
+      "name": "Jewellary",
+      "price": "9259",
+      "category": "Jewellary",
+      "id": 4
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/150/150/ks7tuvk0/slipper-flip-flop/o/z/v/6-fe-384or-384wt-footup-multicolor-6-original-imag5u4wqzejpzjj.jpeg?q=70",
+      "name": "Sleeper",
+      "price": "254",
+      "category": "Sleeper",
+      "id": 5
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/150/150/kuvkcy80/sandal/h/w/a/8-xxx-01-black-red-8-sfr-black-red-original-imag7wamy9ynjqef.jpeg?q=70",
+      "name": "Sandle",
+      "price": "4562",
+      "category": "sandle",
+      "id": 6
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/150/150/k4vmxzk0/laptop-bag/b/j/p/durable-material-1004-laptop-backpack-drazo-original-imafmzsbvtryxkgz.jpeg?q=70",
+      "name": "Bag",
+      "price": "9458",
+      "category": "bag",
+      "id": 7
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/150/150/kbtp0280/shoe/c/k/k/gm1251-43-good-minar-black-original-imaft34ej4zx2z63.jpeg?q=70",
+      "name": "shoes",
+      "price": "9568",
+      "category": "shoes",
+      "id": 8
+    }
+  ]
+}

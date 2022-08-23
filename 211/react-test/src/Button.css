@@ -1,0 +1,30 @@
+.lu{
+   
+    /* justify-content: center; 
+    align-self: end;
+    align-content: center;
+     text-align: center; */
+     height:30px;
+     border-radius: 2px;
+     margin-left: 49%;
+     background-color: aliceblue;
+}
+.red{
+    /* height:30px;
+    border-radius: 2px;
+    margin-left: 49%; */
+    background-color: crimson;
+}
+.green{
+    /* height:30px;
+    border-radius: 2px;
+    margin-left: 49%; */
+    background-color: green;
+    color:beige
+}
+.bordered{
+    border: 1px solid blanchedalmond;
+}
+.ghost{
+    border:none;
+}

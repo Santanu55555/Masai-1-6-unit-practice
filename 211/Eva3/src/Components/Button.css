@@ -1,0 +1,42 @@
+.btn{
+    border-radius: 10px;
+    cursor: pointer;;
+   background-color: white;
+}
+.red{
+background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.orange{
+    background-color: orange;
+}
+.green{
+    background-color: green;
+}
+.solid{
+border:10px solid teal
+}
+.ghost{
+    border:none;
+}
+.outline{
+ border: 2px solid teal;
+}
+.sm{
+height:30px;
+width: 50px;
+}
+.md{
+    height:50px;
+    width: 100px;
+}
+.lg{
+    height:100px;
+    width:150px ;
+}
+.xl{
+    height:150px;
+    width: 200px;
+}

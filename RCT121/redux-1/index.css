@@ -1,0 +1,33 @@
+#main_container
+{
+    /* border: solid; */
+    margin: auto;
+    width: 60%;
+    height: inherit;
+    text-align: center;
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+}
+#innerdiv
+{
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+}
+button
+{
+    height: 40px;
+    width: 150px;
+}
+#innerbtn
+{
+    gap: 20px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+
+}
+#input
+{
+    margin-top: 30px;
+    height: 40px;
+    width: 100px;
+}

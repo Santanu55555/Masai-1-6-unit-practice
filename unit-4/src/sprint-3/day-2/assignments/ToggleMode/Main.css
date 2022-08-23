@@ -1,0 +1,54 @@
+svg {
+  height: 36px !important;
+  margin-top: 20px;
+  color: #dadada;
+  font-size: 7.8rem !important;
+}
+
+.svg1 > svg {
+  color: #fff;
+}
+
+.add > svg {
+  color: #29cb97;
+}
+
+.heading {
+  font-size: 26px;
+  margin-right: 50px;
+}
+
+.mode {
+  font-size: 14px;
+  margin-right: 10px;
+}
+
+.userDiv {
+  padding: 0px 20px;
+}
+
+.userDiv,
+.userDiv > div {
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  justify-content: space-between;
+}
+
+.userDiv > div {
+  font-size: 14px;
+}
+
+.userDiv > div > svg {
+  margin: -50px;
+}
+
+progress {
+  margin-top: 10px;
+  width: 450px;
+}
+
+.dots > svg {
+  margin: 0;
+  margin-right: -40px;
+}

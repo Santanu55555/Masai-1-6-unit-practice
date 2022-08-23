@@ -1,0 +1,69 @@
+Main
+.main {
+    background-color: #202124;
+    width: 50%;
+    margin: auto;
+}
+.btns {
+    display: flex;
+    width: 60%;
+    max-width: 30rem;
+    justify-content: space-evenly;
+    margin: 0rem auto;
+    margin-left: -2%;
+    padding: 1rem 2rem;
+}
+
+.btn,
+.stop,
+.reset,
+.start{
+    padding: 0.25rem 2rem;
+    font-size: 1rem;
+    color: gray;
+    background: black;
+}
+.reset {
+    background: #d3d3d3;
+    color: black;
+}
+.start, .stop {
+    color: black;
+    background: rgba(168, 168, 187, 0.842);
+}
+
+.reset, .start, .stop {
+    cursor: pointer;
+}
+
+/* Time */
+.time {
+    width: 90%;
+    display: flex;
+    gap: 1rem;
+    justify-content: start;
+    max-width: 20rem;
+    margin: 0rem auto 1.5rem;
+    height: 3rem;
+    padding: 0.5rem 1rem;
+    color: white;
+    text-align: left;
+}
+.secs {
+    height: 4rem;
+    font-size: 4rem;
+    background-color: #202124;
+    color: white;
+    border: none;
+}
+.secs::after {
+    font-size: 3rem;
+    content: "s";
+    color: #a3a3a3;
+    position: relative;
+    left: 0.25rem;
+}
+.ms {
+    font-size: 2rem;
+    margin-top: 2.05rem;
+}

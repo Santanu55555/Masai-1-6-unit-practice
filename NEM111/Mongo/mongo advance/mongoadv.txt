@@ -1,0 +1,19 @@
+1) db.customer.find({name:{$in:["Lauren Clark","Dana Clarke'"]}}) 
+2) db.customer.find({accounts:{$all:[ 883283, 980867, 164836, 200611, 528224, 931483]}})
+3)db.customer.find({$or:[name:{$in:["Lauren Clark","Dana Clarke'"]},{accounts:{$all:[ 883283, 980867, 164836, 200611, 528224, 931483]}}]})
+4)db.customer.find({$and:[name:{$in:["Lauren Clark","Dana Clarke'"]},{accounts:{$all:[ 883283, 980867, 164836, 200611, 528224, 931483]}}]})
+
+
+5)db.customer.updateOne({ name: 'Lauren Clark'},{$set:{address:"hum nahi batayenge"}})
+6)db.customer.updateMany(
+   { },
+   { $push: { accounts: 95 } }
+)
+7)db.customer.updateOne( {  }, { $pop: { scores: 1 } } )  //pop normally
+8)db.customer.updateOne( {  }, { $pop: { scores: 1 } } )  //shift
+9)db.customer.updateMany( {}, { $rename: { "name": "naamHe" } } )
+10)db.customer.updateOne(
+   { },
+   { $unset: { name: "", accounts: [] } }
+)
+

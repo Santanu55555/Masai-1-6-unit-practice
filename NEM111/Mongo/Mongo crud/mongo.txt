@@ -1,0 +1,41 @@
+mongosh-    "Start mongo in terminal"
+
+
+// for databases 
+
+
+use users-    "users exists ?access user database : create it."
+use databasename - "databasename exists ?access databasename database : create it."
+
+show dbs -"View all databases"
+
+db - "view current database"
+
+ db.dropDatabase() - "delete database"  // choose wisely
+
+
+
+
+
+For collection
+
+
+db.createCollection('data') - "create a collection"
+
+show collections - "show current collection"
+
+db.collectionname.drop() - "delete a collection"
+
+db.data.insertMany([datas]) - "insert array of datas"
+
+
+
+1) db.data.find({gender:"male"}) - All users whose gender is male
+2)db.data.find({id: {"$mod": [2,0]}}) - all users whose ID is even
+3) db.data.find({native:"Japan"}) - Users who currently live in Japan
+4)db.data.find({gender: "Female", native:"India"}) 
+5) db.data.find({age: {$gt: 25}})
+6) db.data.find({age: {$lt: 50}, native: "United States"})
+7) db.data.find({relocate_to: "France"}).count()
+8)db.data.find({native: "United States",relocate_to: "Russia"}).sort({age:1}) 
+9)db.data.find().sort({family_members:1, age: -1}) 

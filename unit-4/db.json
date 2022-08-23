@@ -1,0 +1,31 @@
+{
+  "employee": [
+    {
+      "marry": false,
+      "name": "Santanu Mohapatra",
+      "age": "23",
+      "address": "Puri",
+      "dept": "IT",
+      "salary": "200000",
+      "id": 1
+    },
+    {
+      "marry": true,
+      "name": "Aman",
+      "age": "23",
+      "address": "Puri",
+      "dept": "HR",
+      "salary": "100000",
+      "id": 2
+    },
+    {
+      "marry": true,
+      "dept": "HR",
+      "name": "Test1",
+      "age": "23",
+      "address": "Test",
+      "salary": "1312331",
+      "id": 3
+    }
+  ]
+}

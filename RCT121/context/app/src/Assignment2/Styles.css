@@ -1,0 +1,25 @@
+.form {
+  width: 500px;
+  background-color: #1111;
+  border-radius: 12px;
+  text-align: center;
+  padding: 20px;
+}
+
+div > input {
+  border: none;
+  outline: none;
+  background: transparent;
+}
+
+.form > div {
+  display: grid;
+  width: 60%;
+  margin: auto;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.dummyText {
+  width: 90%;
+  text-align: center;
+}

@@ -1,0 +1,8 @@
+{
+  "hello": [
+    { "nrupul": "dev" },
+    { "albert": "sebastian" },
+    { "salman": "chomu" }
+  ],
+  "world": [{ "ok": "youcan", "be": "superman" }]
+}

@@ -1,0 +1,13 @@
+1)
+db.data.find({ $or:[{id: {"$mod": [2,0]}} ,
+{age: {"$mod": [2,0]}},{family_members: {"$mod": [2,0]}}]    })
+
+2)
+db.data.find({gender:"Male",age: {"$mod": [2,1]}})
+3)
+db.data.find({native: "United States",age:{$lte: 23}}).updateMany(
+    {},
+    {$unset: { relocate_to: "" }}
+)
+4)db.data.find({ }).sort( { family_members : -1} )
+
